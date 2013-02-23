@@ -1,0 +1,2 @@
+pkill linda
+pkill mbus
